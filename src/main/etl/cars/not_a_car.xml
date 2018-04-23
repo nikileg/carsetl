@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<car>
+    <vin>vin_notacar</vin>
+    <milage>101</milage>
+    <type>definitely not a car</type>
+    <location>hello</location>
+    <price>9001</price>
+    <maxWeight>69</maxWeight>
+</car>

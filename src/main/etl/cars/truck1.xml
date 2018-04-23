@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<car>
+    <vin>vin_truck1</vin>
+    <milage>123</milage>
+    <type>truck</type>
+    <location>str1234</location>
+    <price>123</price>
+    <maxWeight>123</maxWeight>
+</car>
